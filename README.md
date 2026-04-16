@@ -122,3 +122,10 @@
 # License		
 [![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * CC-BY-SA-4.0
+
+* VPN 配置ZJU_Rule
+- 打开订阅转换网址[https://acl4ssr-sub.github.io/](https://acl4ssr-sub.github.io/)（或者在[https://subconverter.org/](https://subconverter.org/)中任选一个）
+- 把**VPN代理商给的订阅链接**复制到【订阅链接】
+- 把链接https://raw.githubusercontent.com/ZY-Zeng/ZJU_Rule/refs/heads/zju_rule/Clash/config/ZJU.ini复制到【远程配置】
+- 点击生成【订阅链接】
+- 将**生成的订阅链接**复制到Clash中订阅即可
